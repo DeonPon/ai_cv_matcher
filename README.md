@@ -34,7 +34,7 @@ The system leverages Llama 3.3 and RAG to generate a comprehensive report. It ca
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/AI_CV_Matcher.git](https://github.com/YourUsername/AI_CV_Matcher.git)
+   git clone https://github.com/DeonPon/AI_CV_Matcher
    cd AI_CV_Matcher
    
 2. **Set up environment variables:**
